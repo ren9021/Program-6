@@ -6,16 +6,7 @@
 #
 #  File Name:         Program6.py
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          10-13-19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapter #s 1-4
-#
-#  Description:
-#     This is a program that calculates the occupancy rate for a hotel.
+#  Description:       This is a program that calculates the occupancy rate for a hotel
 #
 #***************************************************************
 
@@ -84,7 +75,6 @@ def main():
 #**************************************************************
 def developerInfo():
     print('Name:     Renee White')
-    print('Course:   Programming Fundamentals I')
     print('Program:  Six')
     print()
     # End of the developerInfo function
